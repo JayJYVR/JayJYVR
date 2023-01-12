@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayJYVR
 - 👀 I’m interested in working remotely in IT.  
-- 🌱 I’m currently learning HTML, CSS, JS, and Python.  
-- 💞️ I’m looking to collaborate on web design or python projects.  
+- 🌱 I’m currently learning PHP and SQL and integrating them into a website alongside HTML, CSS, and JS.  
+- 💞️ I’m looking to collaborate on web design, python, c++, or java projects.  
 - 📫 How to reach me, GitHub!!  
 
 <!---
